@@ -1,0 +1,11 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "Node.js learning workspace",
+  "main": "01_Basics/test.js",
+  "scripts": {
+    "start": "node 01_Basics/test.js"
+  },
+  "type": "commonjs",
+  "license": "MIT"
+}
